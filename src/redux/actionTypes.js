@@ -1,0 +1,13 @@
+export const LOG_IN = 'LOG_IN';
+export const LOG_OUT = 'LOG_OUT';
+export const REGISTER_USER = 'REGISTER_USER';
+export const GET_API_SEARCH = 'GET_API_SEARCH';
+export const SET_SEARCH_RESULT = 'SET_SEARCH_RESULT';
+export const SET_ERROR_SEARCH = 'SET_ERROR_SEARCH';
+export const GET_MOVIE_BY_ID = 'GET_MOVIE_BY_ID';
+export const SET_MOVIE = 'SET_MOVIE';
+export const ADD_COMMENT = 'ADD_COMMENT';
+export const SET_COMMENT = 'SET_COMMENT';
+export const DELETE_COMMENT = 'DELETE_COMMENT';
+export const GET_MORE_DATA_SEARCH = 'GET_MORE_DATA_SEARCH';
+export const SET_MORE_DATA_SEARCH = 'SET_MORE_DATA_SEARCH';
