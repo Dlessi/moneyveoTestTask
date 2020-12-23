@@ -1,13 +1,13 @@
 # moneyveoTestTask
 
 
-Clone the repository
-install dependency npm i
-        Android
-Open android simulator
-enter command npm run android 
-        IOS
-You need installed Xcode
-open /ios/MoneyveoTestTask.xcworkspace in Xcode
-install dependecy with command "cd ios && pod install"
-enter command npm run ios
+1. Clone the repository
+2. install dependency npm i
+# Android
+1. Open android simulator
+2. enter command npm run android 
+# IOS
+1. You need installed Xcode
+2. open /ios/MoneyveoTestTask.xcworkspace in Xcode
+3. install dependecy with command "cd ios && pod install"
+4. enter command npm run ios
